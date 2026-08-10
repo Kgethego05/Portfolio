@@ -82,11 +82,10 @@ function HomePage() {
                             "
                         >
 
-                            I build secure backend systems,
-                            REST APIs and AI-powered web
-                            applications using Java,
-                            Spring Boot, React,
-                            Node.js and PostgreSQL.
+                            I build full-stack web applications, 
+                            REST APIs and secure software solutions 
+                            focused on practical software development.
+
 
                         </p>
 
@@ -172,15 +171,11 @@ function HomePage() {
                         "
                     >
 
-                        I am a Computer Science graduate with a
-                        passion for building secure and scalable
-                        software solutions. I enjoy backend
-                        development, designing REST APIs,
-                        implementing authentication systems and
-                        developing AI-powered applications.
-                        I continuously learn new technologies
-                        and enjoy solving real-world problems
-                        through software development.
+                        I am a Computer Science graduate with a passion for building secure and scalable software solutions. 
+                        I enjoy full-stack development, designing REST APIs, implementing authentication systems and developing 
+                        AI-powered applications. I continuously learn new technologies and enjoy solving real-world problems through 
+                        software development.
+
 
                     </p>
 

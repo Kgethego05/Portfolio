@@ -36,8 +36,8 @@ function ImageCarousel({ images }) {
                 alt="Project screenshot"
                 className="
                     w-full
-                    h-100
-                    object-cover
+                    h-auto
+                    object-contain
                     rounded-xl
                 "
             />
