@@ -51,27 +51,17 @@ function HomePage() {
 
                         </p>
 
-                        <h1
-                            className="
-                                text-5xl
-                                md:text-7xl
-                                font-black
-                                mt-4
-                            "
-                        >
-                            Kgethego
-                        </h1>
+                        <h1 className="text-5xl md:text-7xl font-black mt-4">
+                             
+                              Kgethego Mabilo
 
-                        <h2
-                            className="
-                                text-2xl
-                                md:text-4xl
-                                text-slate-300
-                                mt-5
-                            "
-                        >
-                            Software Engineer
-                        </h2>
+                        <span className="block text-2xl md:text-4xl text-slate-300 mt-5 font-normal">
+                           
+                            Junior Full-Stack Developer
+
+                        </span>
+
+                        </h1>
 
                         <p
                             className="
@@ -127,7 +117,7 @@ function HomePage() {
 
                         <img
                             src={profile}
-                            alt="Profile"
+                            alt="junior full-stack developer"
                             className="
                                 w-60
                                 h-60
